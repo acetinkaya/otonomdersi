@@ -46,23 +46,27 @@ Amaç: Bu ders,
         * C# Programlama Dili
         * Python Programlama Dili
 
-7. Hafta -
+7. Hafta - Otonom Araç Sistemlerinde Yol Planlama Algoritmaları
 
-9. Hafta - Vize Sınavı Haftası
+        * Yol planlama algoritmaları (A*, RRT, Dijkstra)
+        * Engel algılama ve kaçınma mantığı
+        * Simülasyon tabanlı örnekler
+
+8. Hafta - Vize Sınavı Haftası
+
+9. Hafta -
 
 10. Hafta -
 
-11. Hafta -
+11. Hafta - 
 
-12. Hafta - 
+12. Hafta -
 
 13. Hafta -
 
 14. Hafta -
 
-15. Hafta -
-
-16. Hafta - Final Sınavı Haftası
+15. Hafta - Final Sınavı Haftası
 
 ## KAYNAKLAR
 
