@@ -9,3 +9,4 @@ Amaç: Bu ders,
 ## DERSİN ÖĞRENME ÇIKTILARI
 
 
+## HAFTALIK DERS KONULARI
