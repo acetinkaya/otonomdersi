@@ -16,21 +16,24 @@ Amaç: Bu ders,
          * Tarihsel gelişim ve kullanım alanları (savunma, ulaşım, tarım, sağlık vb.)
          * Endüstri 4.0 ve otonom sistemler ilişkisi
    
-2. Hafta -
+2. Hafta - Sensörler ve Veri Toplama
 
+         * Kamera, Lidar, Radar, Ultrasonik, GPS, IMU
+         * Sensör verilerinin toplanması ve ön işleme
+         * Sensör füzyonuna giriş
 
-3. Hafta -
-
-
-4. Hafta - 
+4. Hafta -
 
 
 5. Hafta - 
 
+
 6. Hafta - 
 
+7. Hafta - 
 
-7. Hafta -
+
+8. Hafta -
 
 9. Hafta - Vize Sınavı Haftası
 
