@@ -2,4 +2,6 @@
 
 OST101 OTONOM SİSTEMLERE GİRİŞ İÇERİĞİ
 
+Amaç: Bu ders,
+
 
