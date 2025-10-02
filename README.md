@@ -37,15 +37,16 @@ Amaç: Bu ders,
 5. Hafta - Algoritmalar ve Veri Yapıları
 
         * Karar yapıları (if-else)
-
         * Döngü yapıları (for, while)
-
         * Temel arama algoritmaları (BFS, DFS, Dijkstra)
 
-7. Hafta - 
+6. Hafta - Otonom Sistemlerde Kullanılan Programlama Dilleri
 
+        * C Programlama Dili
+        * C# Programlama Dili
+        * Python Programlama Dili
 
-8. Hafta -
+7. Hafta -
 
 9. Hafta - Vize Sınavı Haftası
 
