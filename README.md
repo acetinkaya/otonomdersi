@@ -24,3 +24,4 @@ Amaç: Bu ders,
 
 7. Hafta -
 
+8. Hafta - 
