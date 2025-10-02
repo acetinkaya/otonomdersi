@@ -34,15 +34,20 @@ Amaç: Bu ders,
         * Robotlarda haberleşme yapıları
         * IoT ve ROS’a giriş
 
-5. Hafta - 
+5. Hafta - Algoritmalar ve Veri Yapıları
+
+        * Karar yapıları (if-else)
+
+        * Döngü yapıları (for, while)
+
+        * Temel arama algoritmaları (BFS, DFS, Dijkstra)
+
+7. Hafta - 
 
 
-6. Hafta - 
+8. Hafta -
 
-
-7. Hafta -
-
-8. Hafta - Vize Sınavı Haftası
+9. Hafta - Vize Sınavı Haftası
 
 10. Hafta -
 
