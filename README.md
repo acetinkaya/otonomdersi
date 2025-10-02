@@ -48,3 +48,5 @@ Amaç: Bu ders,
     * https://avesis.gelisim.edu.tr/alcetinkaya       
 
 ## Dersin Verildiği Dönem ve Bilgiler    
+
+2025-2026 Güz Dönemi - İGÜ MYO Otonom Sistemler Teknikerliği Programı, Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-detay-4-404-18433-1
