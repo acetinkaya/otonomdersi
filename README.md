@@ -54,7 +54,11 @@ Amaç: Bu ders,
 
 8. Hafta - Vize Sınavı Haftası
 
-9. Hafta -
+9. Hafta - Yapay Zeka (YZ) ve Makine Öğrenmesi (MÖ) Temelleri
+
+        * Makine öğrenmesi nedir?
+        * Denetimli / Denetimsiz öğrenme
+        * YZ Tabanlı Uygulamalı Örnekler 
 
 10. Hafta -
 
