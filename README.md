@@ -22,8 +22,11 @@ Amaç: Bu ders,
          * Sensör verilerinin toplanması ve ön işleme
          * Sensör füzyonuna giriş
 
-4. Hafta -
+3. Hafta - Gömülü Sistemler ve Mikrodenetleyiciler
 
+         * Mikrodenetleyici temelleri (Arduino, ESP32, Raspberry Pi)
+         * Otonom sistemlerde işlemcilerin rolü
+         * Sektör uygulama örnekleri
 
 5. Hafta - 
 
