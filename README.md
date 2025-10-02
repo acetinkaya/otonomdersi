@@ -28,17 +28,21 @@ Amaç: Bu ders,
          * Otonom sistemlerde işlemcilerin rolü
          * Sektör uygulama örnekleri
 
+4. Hafta - Haberleşme Protokolleri
+
+        * UART, I2C, SPI, CAN
+        * Robotlarda haberleşme yapıları
+        * IoT ve ROS’a giriş
+
 5. Hafta - 
 
 
 6. Hafta - 
 
-7. Hafta - 
 
+7. Hafta -
 
-8. Hafta -
-
-9. Hafta - Vize Sınavı Haftası
+8. Hafta - Vize Sınavı Haftası
 
 10. Hafta -
 
