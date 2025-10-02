@@ -80,7 +80,7 @@ Amaç: Bu ders,
 
         * Tübitak 2209 - Teknofest proje hazırlama rehberliği
 
-14. Hafta -
+14. Hafta - Araştırma & Proje Sunumları 
 
 15. Hafta - Final Sınavı Haftası
 
