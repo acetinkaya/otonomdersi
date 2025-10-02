@@ -2,7 +2,7 @@
 
 OST101 OTONOM SİSTEMLERE GİRİŞ İÇERİĞİ
 
-Amaç: Bu dersin amacı, öğrencilerin otonom sistemlerin temel kavramlarını, tarihsel gelişimini ve günümüzdeki uygulama alanlarını kavramalarını sağlamaktır. 
+Amaç: Bu dersin amacı, öğrencilerin otonom sistemlerin temel kavramlarını, tarihsel gelişimini ve günümüzdeki uygulama alanlarını kavramalarını sağlamaktır. Öğrenciler, sensör teknolojileri, gömülü sistemler, haberleşme protokolleri, algoritmalar, yapay zekâ ve bilgisayarlı görü temelleri gibi konularda teorik ve uygulamalı bilgi edinerek, otonom sistemlerin tasarımı, geliştirilmesi ve değerlendirilmesi konusunda yetkinlik kazanacaklardır. 
 
 İçerik: Bu dersin içeriği, 
 
