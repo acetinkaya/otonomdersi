@@ -60,7 +60,11 @@ Amaç: Bu ders,
         * Denetimli / Denetimsiz öğrenme
         * YZ Tabanlı Uygulamalı Örnekler 
 
-10. Hafta -
+10. Hafta - Bilgisayarlı Görüye Giriş
+
+        * Görüntü işleme temel kavramlar (OpenCV)
+        * Nesne tanıma ve takip
+        * Otonom araçlarda kamera uygulamaları
 
 11. Hafta - 
 
