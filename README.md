@@ -10,7 +10,7 @@ Amaç: Bu ders,
 
 ## HAFTALIK DERS KONULARI
 
-1. Hafta - 
+1. Hafta - Otonom Sistemlere Genel Bakış
 
 2. Hafta -
 
