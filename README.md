@@ -66,7 +66,10 @@ Amaç: Bu ders,
         * Nesne tanıma ve takip
         * Otonom araçlarda kamera uygulamaları
 
-11. Hafta - 
+11. Hafta - Güvenlik, Etik ve Güncel Uygulamalar 
+
+        * Otonom sistemlerde siber güvenlik
+        * Etik sorunlar (karar mekanizmaları, kaza senaryoları)
 
 12. Hafta -
 
