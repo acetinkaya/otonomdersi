@@ -66,14 +66,19 @@ Amaç: Bu ders,
         * Nesne tanıma ve takip
         * Otonom araçlarda kamera uygulamaları
 
-11. Hafta - Güvenlik, Etik ve Güncel Uygulamalar 
+11. Hafta - Güvenlik, Etik ve Güncel Uygulamalar I
 
         * Otonom sistemlerde siber güvenlik
         * Etik sorunlar (karar mekanizmaları, kaza senaryoları)
 
-12. Hafta -
+12. Hafta - Güncel Otonom Sistem Uygulamaları II
 
-13. Hafta -
+        * Sağlık, tarım, lojistik, akıllı şehirlerde kullanım
+        * Öğrenci araştırmaları ve tartışmalar
+
+13. Hafta - Proje ve Sunum Hazırlıkları
+
+        * Tübitak 2209 - Teknofest proje hazırlama rehberliği
 
 14. Hafta -
 
