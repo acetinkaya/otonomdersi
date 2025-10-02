@@ -4,4 +4,6 @@ OST101 OTONOM SİSTEMLERE GİRİŞ İÇERİĞİ
 
 Amaç: Bu ders,
 
+İçerik:  Bu dersin içeriği, 
+
 
