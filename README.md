@@ -12,33 +12,41 @@ Amaç: Bu ders,
 
 1. Hafta - Otonom Sistemlere Genel Bakış
 
+         * Otonom sistem nedir?
+         * Tarihsel gelişim ve kullanım alanları (savunma, ulaşım, tarım, sağlık vb.)
+         * Endüstri 4.0 ve otonom sistemler ilişkisi
+   
 2. Hafta -
+
 
 3. Hafta -
 
+
 4. Hafta - 
+
 
 5. Hafta - 
 
 6. Hafta - 
 
+
 7. Hafta -
 
-8. Hafta - Vize Sınavı Haftası
-
-9. Hafta -
+9. Hafta - Vize Sınavı Haftası
 
 10. Hafta -
 
-11. Hafta - 
+11. Hafta -
 
-12. Hafta -
+12. Hafta - 
 
 13. Hafta -
 
 14. Hafta -
 
-15. Hafta - Final Sınavı Haftası
+15. Hafta -
+
+16. Hafta - Final Sınavı Haftası
 
 ## KAYNAKLAR
 
