@@ -12,3 +12,5 @@ Amaç: Bu ders,
 
 1. Hafta - 
 
+2. Hafta -
+
