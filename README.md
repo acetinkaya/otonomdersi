@@ -41,3 +41,6 @@ Amaç: Bu ders,
 15. Hafta - Final Sınavı Haftası
 
 ## KAYNAKLAR
+
+Öğr. Gör. Ali Çetinkaya’nın internet sayfaları:    
+   
